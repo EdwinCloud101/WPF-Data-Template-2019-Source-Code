@@ -1,0 +1,15 @@
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\obj\Debug\MainWindow.g.cs
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\obj\Debug\App.g.cs
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\obj\Debug\DataTemplate1_MarkupCompile.cache
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\obj\Debug\DataTemplate1_MarkupCompile.lref
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\bin\Debug\DataTemplate1.exe.config
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\bin\Debug\DataTemplate1.exe
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\bin\Debug\DataTemplate1.pdb
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\obj\Debug\MainWindow.baml
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\obj\Debug\DataTemplate1.g.resources
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\obj\Debug\DataTemplate1.Properties.Resources.resources
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\obj\Debug\DataTemplate1.csproj.GenerateResource.cache
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\obj\Debug\DataTemplate1.csproj.CoreCompileInputs.cache
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\obj\Debug\DataTemplate1.exe
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\obj\Debug\DataTemplate1.pdb
+D:\Temp\VideoProjects\DataTemplate1\DataTemplate1\obj\Debug\DataTemplate1.csprojAssemblyReference.cache
